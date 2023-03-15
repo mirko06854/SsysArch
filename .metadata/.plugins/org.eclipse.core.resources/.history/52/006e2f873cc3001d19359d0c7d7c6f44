@@ -1,0 +1,5 @@
+package it.unibz.shipment.taxes.brazil;
+
+public class BrazilTaxCalculator {
+
+}
